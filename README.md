@@ -13,5 +13,5 @@
  - The algorithm without using threads took 1.37 seconds on average to execute. With using 8 threads it took 0.98 seconds which shows about 28.5% increase in efficiency.
 
 ### References:
-Prime of Sieve: https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+Prime of Sieve: https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes <br/>
 Java Threading: https://www.tutorialspoint.com/java/java_multithreading.htm
